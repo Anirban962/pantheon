@@ -28,5 +28,6 @@ https://proclivitydemo.co.in/demos/franny-landscaping/development/
 ## HTML ALL FILES LINK--
 https://we.tl/t-mf2FTQUiI7
 
-
+##wp-file (12.07.2023) link--
+https://we.tl/t-S7bn2H9MGP
 
