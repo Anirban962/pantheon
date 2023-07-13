@@ -35,3 +35,8 @@ https://we.tl/t-S7bn2H9MGP
 https://proclivitydemo.co.in/demos/ptproperty/html/index.php
 
 
+## image comparison slider link--
+https://zurb.com/playground/twentytwenty
+
+
+
