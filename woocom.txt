@@ -44,3 +44,21 @@ https://woocommerce.com/document/customise-the-woocommerce-breadcrumb/
 
 https://woocommerce.wp-a2z.org/oik_api/woocommerce_breadcrumb/
 
+
+https://hotexamples.com/examples/-/-/woocommerce_product_loop_start/php-woocommerce_product_loop_start-function-examples.html
+
+https://stackoverflow.com/questions/72337614/woocommerce-append-a-recommended-product-at-the-start-of-the-product-loop
+
+https://hooks.wbcomdesigns.com/reference/classes/wc_shortcodes/product_categories/
+
+
+https://hooks.wbcomdesigns.com/reference/functions/woocommerce_content/
+
+https://hooks.wbcomdesigns.com/reference/functions/woocommerce_product_loop_start/
+https://wp-kama.com/plugin/woocommerce/function/woocommerce_product_loop_start
+
+
+
+
+
+
