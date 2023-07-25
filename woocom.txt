@@ -50,7 +50,7 @@ https://hotexamples.com/examples/-/-/woocommerce_product_loop_start/php-woocomme
 https://stackoverflow.com/questions/72337614/woocommerce-append-a-recommended-product-at-the-start-of-the-product-loop
 
 https://hooks.wbcomdesigns.com/reference/classes/wc_shortcodes/product_categories/
-
+https://themewagon.github.io/gardener/ --- html site
 
 https://hooks.wbcomdesigns.com/reference/functions/woocommerce_content/
 
