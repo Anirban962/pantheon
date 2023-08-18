@@ -49,3 +49,11 @@ https://www.c-sharpcorner.com/article/how-to-fetch-api-call-using-json-server-in
 ##dsa book link--
 https://doc.lagout.org/science/0_Computer%20Science/2_Algorithms/Essential%20Algorithms_%20A%20Practical%20Approach%20to%20Computer%20Algorithms%20%5BStephens%202013-08-12%5D.pdf
 
+
+##custom login page create in wp
+https://codex.wordpress.org/Customizing_the_Login_Form
+https://passwordprotectwp.com/wordpress-custom-login-page/#default
+
+
+
+
