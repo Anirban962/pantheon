@@ -67,3 +67,12 @@ https://passwordprotectwp.com/wordpress-custom-login-page/#default
 
 ## webdesign + wp  29.08.23
 https://we.tl/t-MSi8Wt1MJ5
+
+##marketing pitch proclivity
+https://we.tl/t-PXS8J48aEC
+
+
+
+
+
+
