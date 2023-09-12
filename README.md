@@ -1,3 +1,36 @@
+##custom scrollbar--->>> https://www.digitalocean.com/community/tutorials/css-scrollbars
+code used in sharma cleaners
+
+
+/* custom scrolbar */
+
+/* Works on Firefox */
+* {
+    scrollbar-width: thin;
+    scrollbar-color: blue #969696;
+  }
+  
+  /* Works on Chrome, Edge, and Safari */
+  *::-webkit-scrollbar {
+    width: 15px;
+  }
+  
+  *::-webkit-scrollbar-track {
+    background: #ffff;
+  }
+  
+  *::-webkit-scrollbar-thumb {
+    background-color: #4294e1;
+    border-radius: 20px;
+    border: 3px solid #fff;
+  }
+
+/* custom scrolbar */
+
+
+
+
+
 # html link---> https://we.tl/t-9MiemW4qGV
 #https://proclivitydemo.co.in/demos/sharmacleaners/
 
