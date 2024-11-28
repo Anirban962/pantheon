@@ -1,4 +1,7 @@
-https://we.tl/t-TtbV4XgWwH
+**Username: root
+Password: EgAWHvybLK3NJdvOSU**
+
+Site URL:- https://proclivitydemo.co.in/demos/accessoriseit-landing-page/wp-admin/
 
 
 
